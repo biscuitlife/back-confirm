@@ -3,7 +3,7 @@
 这是一个易用的点击返回确认弹框插件，不依赖jquery或者zepto的库。
 
 
-## DEMO 
+## 示例 
  [点击这里](https://derekchou.com/lab/back-firm/index.html) 可以体验.
 
 ## 使用方法
