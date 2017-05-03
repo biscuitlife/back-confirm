@@ -25,9 +25,9 @@
 
 这里面需要定义的元素有：
 
-`bc_boxDiv：弹框窗口（如果要让背景变暗，需要在其内部实现）
+bc_boxDiv：弹框窗口（如果要让背景变暗，需要在其内部实现）
 
-`bc_closeBox：关闭弹框的按钮
+bc_closeBox：关闭弹框的按钮
 
-`bc_mustLeave：确定离开的按钮
+bc_mustLeave：确定离开的按钮
 
