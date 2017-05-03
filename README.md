@@ -10,7 +10,7 @@
 
 1.添加js关联:
 ```html
-    <script type="text/javascript" src="back-confirm.js"></script>
+<script type="text/javascript" src="back-confirm.js"></script>
 ```
 2.创建弹框div:
 ```javascript
@@ -24,7 +24,10 @@
 ```
 
 这里面需要定义的元素有：
+
 `bc_boxDiv：弹框窗口（如果要让背景变暗，需要在其内部实现）
+
 `bc_closeBox：关闭弹框的按钮
+
 `bc_mustLeave：确定离开的按钮
 
