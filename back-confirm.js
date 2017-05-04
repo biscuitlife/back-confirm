@@ -1,8 +1,6 @@
 window.onload = function () {
-    if(device == 'android'){
-        var initBox = new InterceptBox('boxDiv', 'closeBox','mustLeave');
-        initBox.init();
-    }
+    var initBox = new InterceptBox('boxDiv', 'closeBox','mustLeave');
+    initBox.init();
 };
 
 function InterceptBox(targetDiv, otar, mustLeave) {
