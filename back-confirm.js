@@ -1,5 +1,5 @@
 window.onload = function () {
-    var initBox = new InterceptBox('boxDiv', 'closeBox','mustLeave');
+    var initBox = new InterceptBox('bc_boxDiv', 'bc_closeBox','bc_mustLeave');
     initBox.init();
 };
 
