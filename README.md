@@ -4,7 +4,7 @@
 
 
 ## 示例 
- [点击这里](https://derekchou.com/lab/back-firm/index.html) 可以体验.
+ [点击这里](https://derekchou.com/lab/back-confirm/index.html) 可以体验.
 
 ## 使用方法
 
